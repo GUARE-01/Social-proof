@@ -35,9 +35,9 @@ Below is a screenshot of the Mobile View of the page.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://github.com/GUARE-01/Social-proof)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://gurare-01-socialproof.netlify.app/)
 
 ## My process
 
